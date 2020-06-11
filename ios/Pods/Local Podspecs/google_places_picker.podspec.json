@@ -1,0 +1,33 @@
+{
+  "name": "google_places_picker",
+  "version": "0.0.3",
+  "summary": "Flutter plugin for Google Places and Autocomplete",
+  "description": "Flutter plugin for Google Places and Autocomplete",
+  "homepage": "https://github.com/derTuca/flutter_google_places_picker",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Alexandru Tuca": "salexandru.tuca@outlook.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "GooglePlaces": [
+
+    ],
+    "GoogleMaps": [
+
+    ]
+  },
+  "static_framework": true,
+  "platforms": {
+    "ios": "9.0"
+  }
+}

@@ -1,0 +1,6 @@
+framework module smart_bubble {
+  umbrella header "smart_bubble-umbrella.h"
+
+  export *
+  module * { export * }
+}

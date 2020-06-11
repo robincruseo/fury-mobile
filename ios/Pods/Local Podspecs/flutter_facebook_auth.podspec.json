@@ -1,0 +1,32 @@
+{
+  "name": "flutter_facebook_auth",
+  "version": "0.2.0",
+  "summary": "A new Flutter plugin.",
+  "description": "A new Flutter plugin.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Darwin Morocho": "darwin.morocho@icloud.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "FBSDKCoreKit/Swift": [
+
+    ],
+    "FBSDKLoginKit/Swift": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  }
+}

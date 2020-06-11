@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856971514481",
+    "firebase_url": "https://handwash-cbaa8.firebaseio.com",
+    "project_id": "handwash-cbaa8",
+    "storage_bucket": "handwash-cbaa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856971514481:android:71da29d51ff99167cf81d0",
+        "android_client_info": {
+          "package_name": "com.handwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856971514481-gej0b74t95odo7929hma4ik8ckgjes0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handwash",
+            "certificate_hash": "2759bcadeb3d542926fda10e6e0f38380a73bf06"
+          }
+        },
+        {
+          "client_id": "856971514481-e28ge931gu1u61fc3glpkna4errkrlg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVSipzQRRJiKyIPQ2Q4vwiNcTOtlHM-YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856971514481-e28ge931gu1u61fc3glpkna4errkrlg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856971514481-pa2ob2e1fessj8j5fb5efjd670ashr07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.handwash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
